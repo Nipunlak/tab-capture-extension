@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎥 Chrome Tab Recorder Extension
 
 A simple Chrome Extension that captures the **active tab's** screen **with audio** using the `chrome.tabCapture` API. The extension allows users to **start**, **pause**, **resume**, and **stop** recordings, and automatically **downloads the video** after recording.
@@ -88,4 +88,4 @@ chrome-tab-recorder/
 =======
 # tab-capture-extension
 A simple Chrome extension that captures the content of the active browser tab using the Chrome Tab Capture API.
->>>>>>> 8ca62f0e30ac18465689f35086331e915b30132d
+
